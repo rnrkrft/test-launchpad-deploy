@@ -38,7 +38,7 @@
     "prettier-plugin-astro": "^0.14.1",
     "ts-node": "^10.9.2",
     "tsx": "^4.23.13",
-    "uuid": "^13.0.0"
+    "uuid": "^14.0.3"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,json,md,yml,yaml}": [
